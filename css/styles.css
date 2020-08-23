@@ -8,6 +8,10 @@ background-color:powderblue;
     font-family: monospace;
     font-size: large;
     font-weight: bolder;
+    -webkit-transition: all 1s 0s ease;
+-moz-transition: all 1s 0s ease;
+-o-transition: all 1s 0s ease;
+transition: all 1s 0s ease;
 }
 
 .container-fluid{
@@ -24,4 +28,9 @@ p{
 .navbar-collapse{
   padding-left: 75%;
 }
+h1{
+  font-family: cursive;
+  text-align: center;
+  text-shadow: 2px;
+  font-size:2rem;
 }
