@@ -1,0 +1,27 @@
+.navbar-nav{
+text-align:center;
+}
+.box{
+background-color:powderblue;
+    margin: 10vw;
+    padding: 2vw;
+    font-family: monospace;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.container-fluid{
+margin-top:2%;
+margin-bottom:2%
+}
+.top{
+  text-align: center;
+}
+p{
+  font-size:4vw;
+  font-color:#121212;
+}
+.navbar-collapse{
+  padding-left: 75%;
+}
+}
